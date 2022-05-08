@@ -1,0 +1,22 @@
+{
+  "name": "desafio-warren",
+  "version": "0.0.1",
+  "description": "Teste de programação - warren tech academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrowindisch/desafio-warren.git"
+  },
+  "author": "Pedro Henrique Windisch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrowindisch/desafio-warren/issues"
+  },
+  "homepage": "https://github.com/pedrowindisch/desafio-warren#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
